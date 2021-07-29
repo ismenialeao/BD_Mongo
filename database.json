@@ -1,0 +1,75 @@
+{"Livros":[
+    {
+        "nome": "O que Encontrei do Outro Lado Da Vida",
+        "categoria": "Espirira",
+        "pagina": 192,
+        "recomenda": true,
+        "leu": true
+    }
+    {
+        "nome": "Pega a Visão",
+        "categoria": "",
+        "pagina": 208,
+        "recomenda": true,
+        "leu": false
+    }
+    {
+
+        "nome": "Os Segredos da Mente Milhonaria",
+        "categoria": "Finanças",
+        "pagina": 152,
+        "recomenda": true,
+        "leu": true
+    
+    }
+    {
+        "nome": "Amor para Corajosos",
+        "categoria": "Romance",
+        "pagina": 192,
+        "recomenda": true,
+        "leu": true
+    },
+    {
+        "nome": "Como Identificar um Pscicopata",
+        "categoria": "Pscicologia",
+        "pagina": 268,
+        "recomenda": true,
+        "leu": false
+    },
+    {
+        "nome": "Excel Avançado",
+        "categoria": "Tecnico",
+        "pagina": 1023,
+        "recomenda": true,
+        "leu": true
+    },
+    {
+        "nome": "Violetas na Janela",
+        "categoria": "Espirita",
+        "pagina": 165,
+        "recomenda": true,
+        "leu": true
+    },
+    {
+        "nome": "A síndrome da boazinha: Como curar sua compulsão por agradar",
+        "categoria": "autoajuda",
+        "pagina": 378,
+        "recomenda": true,
+        "leu": false
+    },
+    {
+        "nome": "A Arte da Guerra",
+        "categoria": "Classico",
+        "pagina": 158,
+        "recomenda": true,
+        "leu": true
+        
+    }
+    {
+        "nome": "Violetas na Janela",
+        "categoria": "Espirita",
+        "pagina": 165,
+        "recomenda": true,
+        "leu": true
+    }
+]}
