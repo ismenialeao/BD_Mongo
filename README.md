@@ -7,9 +7,13 @@ Relaciona seus dados com outros dados de outras tabelas. Ex. Tabela de um pacien
 - Não-Relacinal
 Um banco de dados não relacional é um banco de dados que não usa o esquema de tabela de linhas e colunas encontrado na maioria dos sistemas .
 
-MongoDB é um banco de dados não relacional (noSQL) orientado a documentos no formato JSON
+MongoDB é um banco de dados não relacional (noSQL) orientado a documentos no formato JSON.
 
 
+![1-lwnlfl1ryn](https://user-images.githubusercontent.com/63822305/127707640-18f61f5e-4f21-4018-b9a7-cbb8ec4b0928.png)
 
 
+### Acessando o mongo pela maquina 'Windows '
 
+- [x] Ir em Propriedades do sistema.
+- [x] Variáveis ​​de Ambiente e dependência do caminho da pasta onde esta instalado o mongo C: \ Program Files \ MongoDB \ Server \ 5.0 
