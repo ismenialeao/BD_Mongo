@@ -16,4 +16,7 @@ MongoDB é um banco de dados não relacional (noSQL) orientado a documentos no f
 ### Acessando o mongo pela maquina 'Windows '
 
 - [x] Ir em Propriedades do sistema.
-- [x] Variáveis ​​de Ambiente e dependência do caminho da pasta onde esta instalado o mongo C: \ Program Files \ MongoDB \ Server \ 5.0 
+- [x] Variáveis ​​de Ambiente e dependência do caminho da pasta onde esta instalado o mongo C: \ Program Files \ MongoDB \ Server \ 5.0 e de um ok.
+- [x] Abra o prompt e passe a rota  cd C:\Program Files\MongoDB\Server\5.0\bin  enter 
+- [x] mongod e pressionar enter.
+  
