@@ -33,6 +33,17 @@ MongoDB é um banco de dados não relacional (noSQL) orientado a documentos no f
 #### Buscar o livro
 ```db.getCollection('json').find({})```
 
-### Deletar um livro
+#### Deletar um livro
 ``` db.getCollection('livros').remove({ "categoria": { $ne: "psicologia" } })```
-  
+
+####Inserindo um livro
+```  db.livros.insertMany ```
+
+####  Consulta combinando informações entre setores -  Espirita com mais de 150 paginas
+```db.getCollection('livros').find({'categoria':'Espirita ' ,'pagina':{$gt:150}}) ```
+
+####  Consulta ordenada com (skip, limit e sort) - Livro Espirita com a terceira menor quantidade de páginas
+``` db.getCollection('livros').find({'categoria' :'Espirita'}).sort({pagina: 1}).skip(2).limit(1)```
+
+####  Consulta com projeção - Livro Espirita ordenados do maior para o menor número de páginas
+``` db.getCollection('livros').find({categoria : 'Espirita'}).sort({pagina : 1})```
